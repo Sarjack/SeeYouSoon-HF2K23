@@ -32,3 +32,8 @@ This web application is built using the following technologies:
 To run this application on your local machine, you need to have the following software installed:
 - Node.js (v12 or above)
 - MongoDB (v4 or above)
+
+## Team
+
+- Sarthak Saumya - Team Lead
+- Saksham Jha - Team Member
